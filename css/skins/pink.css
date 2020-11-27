@@ -1,0 +1,21 @@
+.aside .logo a::before{
+    border-top: 4px solid #2105a0;
+    border-left: 4px solid #2105a0;
+}
+.aside .logo a::after{
+    border-right: 4px solid #2105a0;
+    border-bottom: 4px solid #2105a0;
+}
+.profile .blog-item-inner .blog-info .blog-tags a,
+.aside .nav li a:hover,
+.aside .nav li a.active{
+    color: #ec1839;
+}
+.profile .blog-item .blog-img .blog-date,
+.section-tittle h2::before,
+.section-tittle h2::after,
+.aside .nav-toggler span,
+.aside .nav-toggler span::before,
+.aside .nav-toggler span::after{
+    background-color: #ec1839;
+}
